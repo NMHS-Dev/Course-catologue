@@ -1,0 +1,19 @@
+{
+  "name": "nmhs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJohnsonNM/Course-Catalogue.git"
+  },
+  "author": "D Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJohnsonNM/Course-Catalogue/issues"
+  },
+  "homepage": "https://github.com/DJohnsonNM/Course-Catalogue#readme"
+}
